@@ -21,4 +21,10 @@ public class ArrayReverse {
         System.out.println("Original array" + Arrays.toString(input));
         System.out.println("Reversed array" + Arrays.toString(arrayReverse.reverse(input)));
     }
+
+    public void taxAlert(){
+        System.out.println(
+            "Naved working on tax"
+        );
+    }
 }
