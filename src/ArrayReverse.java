@@ -15,6 +15,10 @@ public class ArrayReverse {
         return array;
     }
 
+    public void addlog(){
+        System.out.println("added changes for team 2");
+    }
+
     public static void main(String[] args){
         ArrayReverse arrayReverse = new ArrayReverse();
         String[] input = {"h","e","l","l","o"};
